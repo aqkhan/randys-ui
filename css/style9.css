@@ -285,7 +285,7 @@ padding: 0px;
 	opacity: 1;
 	transform: scale3d(1, 1, 1);
 }
-.header .headerh2{
+ .search__inner_1--down .header .headerh2{
     text-align: left;
     margin: 29px 1px 0px 15px;
     max-width: 100px;
