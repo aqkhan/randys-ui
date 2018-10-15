@@ -10379,7 +10379,7 @@ nav ul.nav .dropdown-menu .dropdown-item.active:focus, nav ul.nav .dropdown-menu
     right: 0;
     margin-left: 15px;
     padding: 23.5px 50px;
-    background-color: #ffffff;
+    background-color: #f2efef;
     border: 1px solid #e0e0e0;
     border-radius: 3px;
     height: 56px;
@@ -10390,7 +10390,7 @@ nav ul.nav .dropdown-menu .dropdown-item.active:focus, nav ul.nav .dropdown-menu
 @media (min-width: 992px) {
     .banner .navbar-header__mega .account-box {
     min-width: 234px;
-    height: 56px;
+    height: 50px;
     padding: 0px 20px;
     }
 }
@@ -10481,7 +10481,7 @@ nav ul.nav .dropdown-menu .dropdown-item.active:focus, nav ul.nav .dropdown-menu
     float: left;
     width: 66px;
     height: 66px;
-    background-image: url(images/RANDYS_logo_color.svg);
+    background-image: url(../images/RANDYS_logo_color.svg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 54px 45px;
@@ -10556,7 +10556,7 @@ nav ul.nav .dropdown-menu .dropdown-item.active:focus, nav ul.nav .dropdown-menu
     height: 115px;
     float: left;
     margin-right: 30px;
-    background-image: url(images/RANDYS_logo_grey.svg);
+    background-image: url(../images/RANDYS_logo_grey.svg);
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 124px 113px;

@@ -80,7 +80,7 @@ a,
 	display: block;
 	width: 1.5em;
 	height: 1.5em;
-	    margin: 4px 0px 6px 0px;
+   	margin: 5px 3px 0px -5px;
 	fill: currentColor;
 	font-size: 16px;
     color: coral;
@@ -95,10 +95,11 @@ a,
     flex-wrap: wrap;
     align-items: center;
     width: 100%;
-   padding: 8px 10px 5px 0px;
+   padding: 1px 10px 3px 0px;
+   background-color: #f2efef;
 }
 .search-wrap input{
-	width: 414px;
+	width: 448px;
 	outline: none !important;
 }
 .search-wrap input: placeholder{
@@ -109,7 +110,7 @@ a,
 .codrops-header__side,
 .search-wrap {
 	    display: flex;
-    margin: 3px 0px 0px 25px;;
+    margin: 6px 0px 0px 25px;
 }
 
 
